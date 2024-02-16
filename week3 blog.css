@@ -1,0 +1,96 @@
+body{
+    background :url(https://images.squarespace-cdn.com/content/v1/54ae5ba2e4b07edb5954e3b8/1639068241595-A56RGOGSHK2AK8ZL4RF4/_Y7A4338.jpg?format=2500w);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.imgcontainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+.image-item {
+    text-align: center;
+    margin: 40px ;
+}
+
+.image-item img {
+    width: 400px;
+    height: auto;
+    border: 8px solid mistyrose;
+    border-radius: 10px;
+    max-width: 100%;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.imgdescription {
+    font-family: 'Advent Pro',sans-serif;
+    font-size: 16px;
+    text-align:start;
+    padding: 10px;
+    color : black;
+    background: rgba(239, 239, 240,0.78);
+    border-radius: 7px;
+    margin-bottom: 40px;
+
+
+}
+
+.flexbox{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.fleximage img{ 
+    width: 200px;
+    height: 280px ;
+    border: 6px solid mistyrose;
+    border-radius: 10px;
+    max-width: 100%;
+    margin-right: 20px;
+    margin-bottom: 50px;
+
+}
+
+.flexboxdesc{
+    font-family: 'Advent Pro',sans-serif;
+    font-size: 16px;
+    text-align:start;
+    padding: 10px;
+    color : black;
+    background: rgba(239, 239, 240,0.78);
+    border-radius: 7px;
+
+}
+
+.classes{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 400px;
+
+
+
+}
+
+.classdesc{
+    font-family: 'Advent Pro',sans-serif;
+    font-size: 16px;
+    text-align:start;
+    padding: 10px;
+    color : black;
+    background: rgba(239, 239, 240,0.78);
+    border-radius: 7px;
+    margin-right: 20px;
+
+}
+
+
+
